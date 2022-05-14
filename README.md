@@ -1,4 +1,4 @@
-# Mentalhao
+# Mentalhão
 Receita pintalhona de licor de menta.
 
 * aguardente 30º
